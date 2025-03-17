@@ -1,4 +1,4 @@
-### LKS SMK Web Techologies - 2024 | Client Slide
+### LKS SMK Web Technologies  - 2024 | Client Slide
 <p>Client slide ini menampilkan game bertema luar angkasa bernama Space Invaders, yang dikembangkan menggunakan beberapa teknologi canggih. 
   Game ini dirancang untuk memberikan pengalaman seru dalam melawan invasi alien dengan grafis yang futuristik dan mekanik permainan yang responsif. 
   Fitur-fitur seperti kontrol pesawat yang mudah, sistem skor kompetitif membuatnya menghibur bagi playernya. 
